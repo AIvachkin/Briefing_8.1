@@ -1,1 +1,4 @@
+*.iml
 /Briefing_8.1.iml
+/out/
+/.idea/
